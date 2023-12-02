@@ -1,0 +1,27 @@
+{
+  "name": "kairostorage",
+  "version": "1.0.4",
+  "description": "A library to manage local storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alansep/kairostorage.git"
+  },
+  "keywords": [
+    "local-storage",
+    "storage",
+    "local",
+    "store",
+    "data",
+    "local-data"
+  ],
+  "author": "Gabriel Alan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/alansep/kairostorage/issues"
+  },
+  "homepage": "https://github.com/alansep/kairostorage#readme"
+}
